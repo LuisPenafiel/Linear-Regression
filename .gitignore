@@ -1,3 +1,6 @@
 __pycache__
 .env
 .learn
+/workspaces/Linear-Regression/data/raw
+/workspaces/Linear-Regression/data/processed
+/workspaces/Linear-Regression/models
